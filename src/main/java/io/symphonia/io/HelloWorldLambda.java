@@ -5,10 +5,10 @@ package io.symphonia.io;
  */
 public class HelloWorldLambda {
 
-    public void String handler(String input){
+    public void  handler (String input){
         String message = String.format("hello", "%s!", input);
         System.out.println(message);
-        return message;
+
 
     }
 

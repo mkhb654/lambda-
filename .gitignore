@@ -1,0 +1,6 @@
+
+.gitignore
+src/main/resources/
+src/test/
+/.idea/
+/lambda.iml
